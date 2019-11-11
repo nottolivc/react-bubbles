@@ -31,7 +31,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ] Explain what a token is used for.
 A token is used for authentication with the server to establish the user is logged in and often stored in local memory.
 - [ ] What steps can you take in your web apps to keep your data secure?
-Tokens generated on the server, private routes using authentication, cryptographicly generated tokens...
+Tokens generated at the server, private routes using authentication, penetration testing, cryptographicly generated tokens...
 - [ ] Describe how web servers work.
 Web servers respond to HTTP requests from the application sending data requests to render the data or delete accordingly, update it etc.
 DELETE, ADD, POST etc data in the server.
